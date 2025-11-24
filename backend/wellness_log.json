@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-11-24T13:06:56.317534Z",
+    "mood": "good",
+    "energy": "good",
+    "goals": [
+      "study",
+      "drink 3L of water",
+      "go for a walk"
+    ],
+    "summary": "Mood: good, Goals: study, drink 3L of water, go for a walk"
+  },
+  {
+    "timestamp": "2025-11-24T13:10:38.992700Z",
+    "mood": "okayyy",
+    "energy": "high",
+    "goals": [
+      "study"
+    ],
+    "summary": "Mood: okayyy, Goals: study"
+  }
+]

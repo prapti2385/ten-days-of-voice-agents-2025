@@ -1,0 +1,20 @@
+[
+  {
+    "drinkType": "latte",
+    "size": "medium",
+    "milk": "regular",
+    "extras": [],
+    "name": "prapti",
+    "timestamp": "2025-11-23T11:17:31.622498Z"
+  },
+  {
+    "drinkType": "latte",
+    "size": "medium",
+    "milk": "regular",
+    "extras": [
+      "whipped cream"
+    ],
+    "name": "prapti",
+    "timestamp": "2025-11-23T11:18:00.282999Z"
+  }
+]
